@@ -3,7 +3,7 @@
 const fp = require('fastify-plugin')
 
 /**
- * This plugins adds some utilities to handle http errors
+ * This plugins adds api documentation based on our routes. 
  *
  * @see https://github.com/fastify/fastify-swagger
  */
