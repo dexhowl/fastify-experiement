@@ -15,7 +15,7 @@
 - Returns singular job by id
 
 ### Sample Response
-```json
+```js
 [
   {
     "id": "1",
@@ -32,7 +32,7 @@
 The provided config will auto-generate documentation via Swagger as you build. It is currently available via the `/docs` route by default.
 You can change the assigned route via the `routePrefix` property. 
 
-```json
+```js
 // swagger.js
 [
   {
